@@ -19,7 +19,7 @@
 
 ___
 ### My skills
-Python, Django, FastAPI, Celery, PostgreSQL, Elasticsearch, Redis, Docker
+Python, Django, FastAPI, Flask, Celery, PostgreSQL, MongoDB, Redis, Elasticsearch, Docker, Unittest, PyTest, ELK, Google Cloud Platform, CI/CD
 
 ___
 <img src="https://komarev.com/ghpvc/?username=kirillpechurin&color=blue&style=flat" alt="profile views" />
